@@ -6,7 +6,6 @@ library(plyr); library(dplyr)
 
 # define the directory that contains the SQLite database from Gadgetbridge
 in_dir <- 'D:\\Directory\\'
-in_dir <- 'D:\\Data Analysis Projects\\Mi Fit Band 5\\Data\\20201013\\'
 
 # function to read in the data
 read_gadgetbridge_data <- function(in_dir_f, db_name_f){
