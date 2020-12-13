@@ -2,7 +2,7 @@
 
 The content here accompanies the following blog post:
 
-(not yet published)
+https://methodmatters.github.io/mi-band-5-data-gadgetbridge-r/
 
 The "Scripts" folder contains the R code for the analysis.
 
